@@ -1,0 +1,36 @@
+/************Tag Selectors*******/
+
+body {
+  background-color:#fbeed7;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #ff7657;
+}
+
+h2, h3 {
+  color: #ffba5a;
+}
+
+
+
+/************Class Selectors*******/
+.Work {
+  background-color: blue;
+}
+/************ID Selectors*******/
+
+#heading {
+  background-color: green;
+}
+.profile {
+  border-radius: 100%;
+}
